@@ -12,7 +12,7 @@
   "buffer_font_size": 15,
   "theme": {
     "mode": "system",
-    "light": "Gruvbox Light",
+    "light": "Dracula Light (Alucard)",
     "dark": "Dracula Solid"
   }
 }
