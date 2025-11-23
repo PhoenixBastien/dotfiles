@@ -14,5 +14,8 @@
     "mode": "system",
     "light": "Dracula Light (Alucard)",
     "dark": "Dracula Solid"
+  },
+  "auto_install_extensions": {
+    "dockerfile": true
   }
 }
