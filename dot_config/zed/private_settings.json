@@ -9,10 +9,9 @@
 {
   "icon_theme": "Catppuccin Mocha",
   "disable_ai": true,
-  "ui_font_size": 16,
   "theme": {
     "mode": "system",
     "light": "Dracula Light (Alucard)",
-    "dark": "Dracula Solid"
+    "dark": "Dracula"
   }
 }
