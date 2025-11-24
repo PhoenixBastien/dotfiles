@@ -14,5 +14,9 @@
     "mode": "system",
     "light": "Dracula Light (Alucard)",
     "dark": "Dracula Solid"
+  },
+  "auto_install_extensions": {
+    "dracula": true,
+    "catppuccin-icons": true
   }
 }
