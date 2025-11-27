@@ -7,6 +7,7 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "icon_theme": "Material Icon Theme",
   "disable_ai": true,
   "ui_font_size": 16,
   "buffer_font_size": 15,
@@ -14,5 +15,9 @@
     "mode": "system",
     "light": "One Light",
     "dark": "Dracula"
+  },
+  "auto_install_extensions": {
+    "dracula": true,
+    "material-icon-theme": true
   }
 }
